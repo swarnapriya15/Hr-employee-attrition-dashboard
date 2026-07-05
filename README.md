@@ -74,9 +74,7 @@ The dataset contains employee information such as:
 
 ## 📷 Dashboard Preview
 
-> Add your dashboard screenshot here after uploading it.
 
-Example:
 
 ![Dashboard](Dashboard_Screenshot.png)
 
