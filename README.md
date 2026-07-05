@@ -78,7 +78,7 @@ The dataset contains employee information such as:
 
 ## 📷 Dashboard Preview
 
-![Dashboard](Dashboard_Screenshot.png)
+![Dashboard](Dashboard_Screenshot.png.png)
 
 ---
 
